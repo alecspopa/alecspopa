@@ -2,7 +2,7 @@
 
 Senior Ruby on Rails developer and iOS developer in Germany.
 
-I am a backend engineer with 16 years of experience in Ruby on Rails.
+I am a backend engineer with 16 years of software development, the last 13 in Ruby on Rails.
 I built systems for payments, contracts and medical records.
 Since 2025 I also ship my own iOS apps end to end: SwiftUI client, Rails API, App Store release and marketing.
 I use LLM agents to ship faster, and I review every change.
@@ -10,6 +10,7 @@ I use LLM agents to ship faster, and I review every change.
 ## What I build now
 
 I am the solo founder of KreisLabs. I shipped 4 products to the App Store in 8 months.
+More than 1000 people installed my apps.
 
 - [RatingKit](https://github.com/alecspopa/RatingKit): an iOS SDK for review and feedback prompts. Open source, MIT license.
 - [Moondane](https://moondane.app): a SwiftUI and SwiftData budget tracker that needs no bank account link.
@@ -18,9 +19,12 @@ I am the solo founder of KreisLabs. I shipped 4 products to the App Store in 8 m
 
 ## Before that
 
-- Getsafe: SEPA and BACS direct debit with GoCardless, more than 50 000 payments a month.
-- Getsafe: 175 000 insurance policies migrated in, with no gap in coverage.
-- Jobandtalent, Bioclinica and [e-spres-oh]: Rails services for hiring, laboratories and e-learning.
+- Getsafe: we built SEPA and BACS direct debit with GoCardless, more than 50 000 payments a month.
+- Getsafe: we migrated 175 000 insurance policies from another insurer, with no gap in coverage.
+- Getsafe: we automated the claims platform. Some claims now take 1 minute instead of close to 50.
+- Jobandtalent: I worked on the sync of worker data across services. The contracts system had to stay in sync with the payment system.
+- Bioclinica: I designed the API for the internal management system. Each lab runs on a local database and syncs to a central one, so it keeps working when its internet is down.
+- [e-spres-oh]: Ruby services for education and publishing clients.
 
 ## Open source
 
